@@ -4,7 +4,7 @@
 
 <!Fetching Sources -->
 
-      <remote name="Ritikk11"
+      <remote name="mr-titanic"
               fetch="https://github.com/mr-titanic"/>
       remote name="ImSpiDy"
               fetch="https://github.com/ImSpiDy"/>
