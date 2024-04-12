@@ -2,16 +2,16 @@
 
 <manifest>
 
-<!Fetching Sources -->
+<!--Fetching Sources -->
 
       <remote name="mr-titanic"
               fetch="https://github.com/mr-titanic"/>
-      remote name="ImSpiDy"
+      <remote name="ImSpiDy"
               fetch="https://github.com/ImSpiDy"/>
     
      
        
- Trees -->
+ <!--Trees -->
  
       <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="mr-titanic" revision="sup"/>
       <project path="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="mr-titanic" revision="sup"/>
