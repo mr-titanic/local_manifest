@@ -13,8 +13,8 @@
        
  <!--Trees -->
  
-      <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="mr-titanic" revision="udc"/>
-      <project path="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="mr-titanic" revision="udc"/>
+      <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="mr-titanic" revision="sup"/>
+      <project path="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="mr-titanic" revision="sup"/>
       <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="mr-titanic" revision="udc"/>
       <project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="mr-titanic" revision="udc"/>
       <project path="kernel/xiaomi/lavender" name="sonix_xiaomi_lavender" remote="ImSpiDy" revision="13-Retro"/>
